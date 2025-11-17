@@ -1,0 +1,31 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "شورى للذكاء الاصطناعي",
+  "legalName": "شورى للذكاء الاصطناعي",
+  "alternateName": "Shwra Legal AI",
+  "url": "https://shwra.ai/ar/",
+  "logo": "https://shwra.ai/assets/Icons/Logo.svg",
+  "description": "منصة شورى تقدم حلولاً قانونية متطورة تعتمد على الذكاء الاصطناعي لرفع كفاءة العمل القانوني وتسريع الإجراءات للمحامين، الشركات، والجهات الحكومية",
+  "email": "info@shwra.sa",
+  "sameAs": [
+    "https://x.com/shwraApp",
+    "https://www.linkedin.com/company/shwraapp/",
+    "https://www.instagram.com/shwraapp/",
+    "https://www.facebook.com/people/%D8%B4%D9%88%D8%B1%D9%89-Shwra/61553127944298/?mibextid=LQQJ4d",
+    "https://www.tiktok.com/@shwraapp"
+  ],
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+966920033635",
+      "contactType": "customer service",
+      "availableLanguage": [
+        "Arabic",
+        "English"
+      ]
+    }
+  ]
+}
+</script>
