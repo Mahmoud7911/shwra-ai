@@ -1,2 +1,2 @@
 # shwra-ai
-Schema markup to be used on Shwra AI website.
+Organization schema to be used on the homepage only, <head> section - inside <script type="application/ld+json">
