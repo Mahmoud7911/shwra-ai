@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+Allow: /ar/auth/musheer-login
+Allow: /ar/auth/user-sign-up
